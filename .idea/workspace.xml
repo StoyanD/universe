@@ -74,7 +74,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
+    <option name="x" value="1973" />
     <option name="y" value="-4" />
     <option name="width" value="1868" />
     <option name="height" value="1085" />
@@ -263,7 +263,7 @@
       <changelist id="5ed6fb09-9a9d-46f5-acb9-f4bcac7b9aa0" name="Default" comment="" />
       <created>1403642803737</created>
       <updated>1403642803737</updated>
-      <workItem from="1403642804516" duration="2075000" />
+      <workItem from="1403642804516" duration="2117000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix procfile&#10;">
       <created>1403645893037</created>
@@ -273,14 +273,18 @@
       <created>1403645984145</created>
       <updated>1403645984145</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="trying to fix procfile&#10;">
+      <created>1403646101723</created>
+      <updated>1403646101723</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2075000" />
+    <option name="totallyTimeSpent" value="2117000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="-4" width="1868" height="1085" extended-state="6" />
+    <frame x="1973" y="-4" width="1868" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
