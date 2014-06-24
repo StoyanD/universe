@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed6fb09-9a9d-46f5-acb9-f4bcac7b9aa0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="stoyanUniverse.iws" />
@@ -264,17 +263,21 @@
       <changelist id="5ed6fb09-9a9d-46f5-acb9-f4bcac7b9aa0" name="Default" comment="" />
       <created>1403642803737</created>
       <updated>1403642803737</updated>
-      <workItem from="1403642804516" duration="1972000" />
+      <workItem from="1403642804516" duration="2075000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix procfile&#10;">
       <created>1403645893037</created>
       <updated>1403645893037</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="trying to fix procfile&#10;">
+      <created>1403645984145</created>
+      <updated>1403645984145</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1972000" />
+    <option name="totallyTimeSpent" value="2075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1868" height="1085" extended-state="6" />
